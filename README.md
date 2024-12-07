@@ -1,20 +1,3 @@
-## **Introduction**
-Ce projet s'inscrit dans le domaine fascinant des équations aux dérivées partielles (EDP) appliquées à la finance. L'objectif principal est de résoudre des problèmes complexes liés à la valorisation des options et à la modélisation des taux d'intérêt en utilisant des méthodes numériques modernes.
-
-Les modèles étudiés, notamment **Black-Scholes**, **Cox-Ingersoll-Ross (CIR)** et **Vasicek**, sont des piliers en finance quantitative, décrivant des phénomènes essentiels tels que l'évolution des prix des options ou des taux d'intérêt.
-
----
-
-## **Points clés du projet**
-- Application des **méthodes numériques** pour résoudre des EDP financières.
-- Étude de **modèles financiers fondamentaux** : Black-Scholes, CIR, Vasicek.
-- Mise en œuvre de **techniques de discrétisation** pour approcher des solutions numériques :
-  - Schéma explicite
-  - Schéma implicite
-  - Schéma de Crank-Nicholson
-
----
-
 ## **Structure du projet**
 
 ### **1. Modèle de Black-Scholes**
